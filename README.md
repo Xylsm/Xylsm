@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xylsm
-- 👀 I’m interested in coding, gaming, puzzles, languages, asian culture, helping individuals in any way I can.
+- 👀 I’m interested in coding, gaming, puzzles, languages, asian culture, helping individuals in anyway I can.
 - 🌱 I’m currently learning korean, html, css, bootstrap, javascript, python, and cyber security.
 - 💞️ I’m looking to collaborate on anything that will better my knowledge and experience.
 - 📫 How to reach me ...
